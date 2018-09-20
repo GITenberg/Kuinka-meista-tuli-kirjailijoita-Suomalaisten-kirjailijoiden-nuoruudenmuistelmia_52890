@@ -1,0 +1,36 @@
+_repo: Kuinka-meista-tuli-kirjailijoita-Suomalaisten-kirjailijoiden-nuoruudenmuistelmia_52890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52890'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Authors, Finnish'
+- GITenberg
+tableOfContents: 'Juhani Aho: Hiukkanen Kalevalan runollisuudesta -- Selma Anttila:
+  Kirjailijataipaleeltani -- Kaarlo Atra: Ensi alkeeni kirjallisella alalla -- Minna
+  Canth: Kuinka meistä tuli kirjailijoita -- Rafael Engelberg: Ensi yritykset -- Hilja
+  Haahti: Pari muistelmaa -- Iivo Härkönen: Kuinka jouduin kynänkäytön alalle -- Santeri
+  Ivalo: Kuinka ja koska alotin -- Valter Juva: Eräs arkkiveisujuttu -- K. A. Järvi:
+  Mitenkä minä aloin "kirjoitella" -- Aino Kallas: Kuinka alotin virolaisaiheisena
+  kirjailijana -- Ilmari Kianto: "Soutajan laulujen" aikoina -- R. Kiljander: Ensi
+  yritykseni -- Juhana Kokko: "Kölliskön" syntymisen syyt -- Aarni Kouta: Alotteeni
+  ja ensi alkuni -- Helmi Krohn: Miten jouduin elämäkerralliselle alalle -- Larin
+  Kyösti: Nuoruuden muistoja -- Eino Leino: Muistojen kaupungit -- Ester Linnankoski:
+  Muuan Linnankosken nuoruudenruno -- Johannes Linnankoski: Alkusäkeet -- Heikki Meriläinen:
+  Nuoruuteni muistoja -- L. Onerva: Pari lehteä muistojen kirjasta -- Olli Vuorinen:
+  Ensi yritykseni -- Theodolinda Yrjö-Koskinen: Miten tulin kirjailijaksi.'
+title: 'Kuinka meistä tuli kirjailijoita: Suomalaisten kirjailijoiden nuoruudenmuistelmia'
+url: http://www.gutenberg.org/ebooks/52890
